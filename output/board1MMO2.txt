@@ -1,0 +1,3 @@
+BoardPosition:			WXXXXXXXXXXXXXXXXXXXXXX
+Positions Evaluated:	1012
+MINIMAX estimate:		0

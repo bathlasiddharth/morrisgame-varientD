@@ -1,0 +1,3 @@
+BoardPosition:			XXXWBWBBXWBBWXBBBWXWXWX
+Positions Evaluated:	22
+MINIMAX estimate:		-1004
